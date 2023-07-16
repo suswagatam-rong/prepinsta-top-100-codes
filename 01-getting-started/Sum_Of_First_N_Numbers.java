@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Sum_Of_First_N_Numbers {
+class Sum_Of_First_N_Numbers {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
